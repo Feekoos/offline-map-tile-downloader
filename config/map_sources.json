@@ -6,4 +6,5 @@
   "Carto Dark Matter": "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png",
   "Esri World Imagery Satellite": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
   "Google Satellite": "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}"
+  "MapTiler Dark Topo 2x": "https://maptiler.com{z}/{x}/{y}@2x.png?key=CggYfo6q9eXJCPgDs2gq"
 }
